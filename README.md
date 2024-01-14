@@ -9,4 +9,4 @@ The main function provided by this utility is packRectanglesInAreas. It takes an
 
 ## Example
 
-To see a working example, visit [example-link].
+To see a working example, visit [https://optimal-board-cutting.vercel.app/].
